@@ -1,0 +1,9 @@
+scipy
+pandas
+matplotlib
+sklearn
+librosa
+numba==0.48
+tqdm
+SoundFile
+resampy
